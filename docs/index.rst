@@ -16,6 +16,8 @@ Before diving into the login process, it’s important to understand why an acco
 Peacock TV offers free, Premium, and Premium Plus tiers. Creating an account is free, and logging in is essential for all levels of access.
 ________________________________________
 Step-by-Step Guide to Login on Peacock TV
+
+<button> Click me </button>
 1. Login on Web Browser (PC or Mac)
 Logging in from a desktop or laptop is straightforward:
 1.	Open your preferred web browser.
