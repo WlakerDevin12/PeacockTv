@@ -5,7 +5,7 @@ How to Login to Peacock TV: A Step-by-Step Guide
    :maxdepth: 2
    :caption: Contents:
 
-<a href="https://peacockcustomerservice.com"> Peacock TV </a>, the popular streaming platform from NBCUniversal, offers thousands of hours of shows, movies, live sports, and original content. Whether you're a new user or returning subscriber, knowing how to log in quickly and securely is essential for enjoying seamless entertainment. In this article, we’ll walk you through the process of logging in to Peacock TV on various devices, resolve common login issues, and provide helpful tips to enhance your viewing experience.
+<a href="https://peacockcustomerservice.com">Peacock TV</a>, the popular streaming platform from NBCUniversal, offers thousands of hours of shows, movies, live sports, and original content. Whether you're a new user or returning subscriber, knowing how to log in quickly and securely is essential for enjoying seamless entertainment. In this article, we’ll walk you through the process of logging in to Peacock TV on various devices, resolve common login issues, and provide helpful tips to enhance your viewing experience.
 ________________________________________
 Why You Need a Peacock TV Account
 Before diving into the login process, it’s important to understand why an account is required:
